@@ -1,6 +1,10 @@
 # Me.
-I do a lot of things but sailing is my favorite.
+Things me like:
+- Sail
+- Hike
+- Poker
 
-#### Other Favorites:
+#### Favorites:
 **Book:** Brave New World / For Whom the Bell Tolls
 **Movie:** Eyes Wide Shut
+**Music:** Macroblank, Take Five, Mahler
