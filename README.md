@@ -4,7 +4,7 @@ Things me like:
 - Hike
 - Poker
 
-#### Favorites:
+#### Recent Favorites:
 **Book:** Brave New World / For Whom the Bell Tolls
 **Movie:** Eyes Wide Shut
-**Music:** Macroblank, Take Five, Mahler
+**Music:** Mahler, The Arcs, Groove Armada
