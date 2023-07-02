@@ -11,5 +11,5 @@ Things me like:
 
 #### Current Project(s):
 - [chronicstocks.net](https://www.chronicstocks.net/) - A visual tool to explore periods of similar stock performance. [(source)](https://github.com/p5quared/DejaVu)
-- A lightweight email client for the terminal (inspired by [lazygit](https://github.com/jesseduffield/lazygit) written in Go).
+- A lightweight email client for the terminal (inspired by [lazygit](https://github.com/jesseduffield/lazygit)) written in Go.
 - poboob.com - A site where people can create and share their own 'digital business cards'.
