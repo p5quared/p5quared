@@ -11,5 +11,5 @@ Things me like:
 
 #### Ongoing Project(s):
 - A site where people can create and share their own 'digital business cards'; I call it *'LinkedIn without the need to connect with other people'*.
-- A simpler temporary file sharing service with Go & HTMX.
+- A temporary file sharing service with Go & HTMX.
 - A faster Apple Music client.
