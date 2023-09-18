@@ -11,9 +11,3 @@ Here are some things I like:
 - Pride & Prejudice
 - The Beatles: Don't Let Me Down
 - A Tale of Two Cities
-
-## Ongoing Project(s):
-- A 'static site generator' for the internet minimalists. (Go)
-- Currently revamping one of my earlier scripts (getReddit) into a library for automatically producing social media content. (Python)
-- A terminal RSS reader for the modern era!! (Go)
- 
